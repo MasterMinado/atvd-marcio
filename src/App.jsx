@@ -1,4 +1,4 @@
-import { Exeplo1 } from "./componentes/Exemplo1";
+import { Exemplo1 } from "./componentes/Exemplo1";
 import { Exemplo2 } from "./componentes/Exemplo2";
 import { Header } from "./componentes/Header";
 
