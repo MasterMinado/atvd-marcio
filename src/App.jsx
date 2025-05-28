@@ -1,6 +1,6 @@
-import { Exeplo1 } from "./componentes/Exeplo1";
-import { Exemplo2 } from "./componentes/Exemplo2";
-import { Header } from "./componentes/Header";
+import { Exemplo1 } from "./components/Exemplo1";
+import { Exemplo2 } from "./components/Exemplo2";
+import { Header } from "./components/Header";
 
 export function App(){
   return (
@@ -8,7 +8,7 @@ export function App(){
       <Header />
 
       <main>
-        <Exeplo1 />
+        <Exemplo1 />
         <Exemplo2 />
       </main>
     </>
