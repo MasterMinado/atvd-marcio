@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react"
 
-export function Exeplo1() {
+export function Exemplo1() {
     const [numero, setNumero] = useState(0)
     
 
